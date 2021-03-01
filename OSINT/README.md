@@ -99,19 +99,19 @@ https://www.smat-app.com/
 SocialPwned :  https://github.com/MrTuxx/SocialPwned  
 
 ## Darkweb & Crypto OSINT:
- https://iaca-darkweb-tools.com/search-darkweb/ 
-https://github.com/MikeMeliz/TorCrawl.py 
-https://github.com/s-rah/onionscan 
-https://jakecreps.com/2019/05/16/osint-tools-for-the-dark-web/ 
-https://github.com/dirtyfilthy/freshonions-torscraper 
-Torbot : https://github.com/DedSecInside/TorBot 
-https://www.osintcombine.com/post/dark-web-searching 
-https://onion.live/ 
-https://www.blockchain.com/explorer 
-https://github.com/s0md3v/Orbit 
-https://bitcoinwhoswho.com/ 
-https://www.blockchain.com/explorer 
- https://www.bitcoinabuse.com/ 
+https://iaca-darkweb-tools.com/search-darkweb/   
+https://github.com/MikeMeliz/TorCrawl.py   
+https://github.com/s-rah/onionscan    
+https://jakecreps.com/2019/05/16/osint-tools-for-the-dark-web/   
+https://github.com/dirtyfilthy/freshonions-torscraper   
+Torbot : https://github.com/DedSecInside/TorBot   
+https://www.osintcombine.com/post/dark-web-searching    
+https://onion.live/   
+https://www.blockchain.com/explorer    
+https://github.com/s0md3v/Orbit   
+https://bitcoinwhoswho.com/   
+https://www.blockchain.com/explorer    
+https://www.bitcoinabuse.com/   
  
 ## OSINT Frameworks:
 •  Maryam  
