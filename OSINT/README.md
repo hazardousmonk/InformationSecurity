@@ -121,6 +121,8 @@ https://www.bitcoinabuse.com/
 • https://github.com/digitaldisarray/OSINT-Tools   
 • https://github.com/topics/osint-tool   
 • https://github.com/ecstatic-nobel/pOSINT   
+• https://github.com/ciscocsirt/GOSINT
+
 
 ## OSINT Tips & References: 
 • https://github.com/blaCCkHatHacEEkr/OSINT_TIPS  
@@ -130,5 +132,5 @@ https://www.bitcoinabuse.com/
 • Missing person OSINT  
 • https://www.osintme.com/index.php/2020/11/21/list-of-darknet-markets-for-investigators/   
 • https://www.osintcombine.com/tools
-
+• https://www.trustedsec.com/blog/upgrade-your-workflow-part-1-building-osint-checklists/
 
