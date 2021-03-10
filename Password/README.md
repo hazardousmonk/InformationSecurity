@@ -18,7 +18,7 @@ Ncrack is a high-speed network authentication cracking tool. It was built to hel
 
 ### Wordlist Generators
 
-* [The mentalist][https://github.com/sc0tfree/mentalist] - 
+* [The mentalist](https://github.com/sc0tfree/mentalist) - 
 Mentalist is a graphical tool for custom wordlist generation. It utilizes common human paradigms for constructing passwords and can output the full wordlist as well as rules compatible with Hashcat and John the Ripper. 
 
 * [Crunch](https://sourceforge.net/projects/crunch-wordlist/) - 
