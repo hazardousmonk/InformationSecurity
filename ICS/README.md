@@ -13,3 +13,5 @@ Low-cost ICS Testbed - The project aims to help setup a minimal, low-cost Indust
 * [awesome-industrial-control-system-security](https://github.com/hslatman/awesome-industrial-control-system-security) - 
 A curated list of resources related to Industrial Control System (ICS) security.
 
+* [Maintenance on a solar PV site](https://trackso.in/administration-and-preventive-maintenance-on-a-solar-pv-site/) -
+Administration and Preventive maintenance on a solar PV site
