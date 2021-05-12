@@ -42,6 +42,8 @@ An Open Source Network Security Monitoring Tool
 Zeek (formerly Bro) is the world’s leading platform for network security monitoring.
 Flexible, open source, and powered by defenders.
 
+* [Try bro aka zeek](https://try.bro.org/#/?example=hello)
+Interactive Zeek tutoria
 
 * [ELK Stack](https://www.elastic.co/elastic-stack) - 
 That's Elasticsearch, Kibana, Beats, and Logstash (also known as the ELK Stack). Reliably and securely take data from any source, in any format, then search, analyze, and visualize it in real time. 
@@ -66,3 +68,20 @@ Zeek Analysis Tools (ZAT) - The ZAT Python package supports the processing and a
 * [Coreruleset](https://github.com/coreruleset/coreruleset) - 
 The OWASP ModSecurity Core Rule Set (CRS) is a set of generic attack detection rules for use with ModSecurity or compatible web application firewalls. The CRS aims to protect web applications from a wide range of attacks, including the OWASP Top Ten, with a minimum of false alerts.
 
+* [Demonsaw](https://www.demonsaw.com/#)
+Secure File sharing
+
+
+* [SecurityOnion](https://securityonionsolutions.com/)
+Security Onion is a free and open source Linux distribution for threat hunting, enterprise security monitoring, and log management. 
+
+* [Osquery](https://github.com/osquery/osquery)
+SQL Powered operating system
+
+* [Suricata](https://suricata-ids.org/)
+Suricata is a free and open source, mature, fast and robust network threat detection engine.
+
+* [Reverse Shell Cheatsheet](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
+
+* [Using the SSH "Konami Code"](https://www.sans.org/blog/using-the-ssh-konami-code-ssh-control-sequences/)
+SANS Penetration Testing blog pertaining to Using the SSH "Konami Code" 

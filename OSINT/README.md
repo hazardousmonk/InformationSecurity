@@ -70,8 +70,14 @@ Email Lookup tool
 * [Gravatar](https://en.gravatar.com/site/check/) - 
 A Gravatar is a Globally Recognized Avatar. You upload an image and create your public profile just once, and then when you participate in any Gravatar-enabled site, your Gravatar image and public profile will automatically follow you there.
 
+* [Snitch](https://github.com/Smaash/snitch)
+Snitch is a tool which automate information gathering process for specified domain. Using build-in dork categories, this tool helps gather specified informations domain which can be found using web search engines. It can be quite useful in early phases of pentest.
+
+
 
 ## Domain & IP OSINT:
+
+
 
 * [ViewDNS](https://viewdns.info/) -
 The tools provided by ViewDNS.info allow users to gather a large amount of data about a given website or IP address. The worth of this data can sometimes be undervalued when looked at in it's raw form, but when placed in context can be quite powerful. This section aims to demonstrate some of the information that can be discovered using tools available on this site.  
@@ -243,6 +249,8 @@ OnionScan is a free and open source tool for investigating the Dark Web. For all
 * [Fresh Onions TOR Hidden Service Crawler](https://github.com/dirtyfilthy/freshonions-torscraper ) - 
 This is a copy of the source for the http://zlal32teyptf4tvi.onion hidden service, which implements a tor hidden service crawler / spider and web site.
 
+* [Osint in DarkNet](https://www.youtube.com/watch?v=ywUxkvCK96w)
+
 #### Tor
 
 * [TorBot](https://github.com/DedSecInside/TorBot) - 
@@ -262,6 +270,9 @@ Bitcoin Addres Lookup
 * [Bitcoin Abuse Database](https://www.bitcoinabuse.com/) - 
 Tracks bitcoin address used by ransomware, blackmailers, fraudsters etc
 
+* [onioff](https://github.com/k4m4/onioff) - 
+A simple tool - written in pure python - for inspecting Deep Web URLs (or onions).
+
 ### Discord
 
 * [Discord Invite Check](https://github.com/HuskerDu/discord-invite-check) - 
@@ -276,6 +287,7 @@ But with some major improvements in terms of speed and efficiency
 
  
 ### OSINT Frameworks:
+
 * [ Maryam ]- (https://github.com/saeeddhqan/Maryam) -  
 OWASP Maryam is a modular/optional open source framework based on OSINT and data gathering. Maryam is written in Python programming language and it’s designed to provide a powerful environment to harvest data from open sources and search engines and collect data quickly and thoroughly.
 

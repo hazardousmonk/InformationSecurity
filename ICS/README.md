@@ -15,3 +15,20 @@ A curated list of resources related to Industrial Control System (ICS) security.
 
 * [Maintenance on a solar PV site](https://trackso.in/administration-and-preventive-maintenance-on-a-solar-pv-site/) -
 Administration and Preventive maintenance on a solar PV site
+
+* [Administration and Preventive maintenance on a solar PV site](https://trackso.in/administration-and-preventive-maintenance-on-a-solar-pv-site/)
+
+* [Understanding RS485 and serial communications](https://www.youtube.com/watch?v=3wgKcUDlHuM)
+
+* [Network Security Monitoring](https://www.youtube.com/watch?v=H6AWRziR028)
+
+* [Collection of Resources for Getting Started in ICS/SCADA Cybersecurity](https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/)
+
+
+### Scada
+
+* [An Introduction to ABB AC500 PLCs](https://www.youtube.com/watch?v=I-EJrD8d9zQ)
+
+* [Hey, My Malware Knows Physics!Attacking PLCs with Physical Model Aware Rootkit](https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss2017_08-1_Garcia_paper.pdf)
+
+* []()
