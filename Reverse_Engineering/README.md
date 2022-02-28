@@ -38,3 +38,4 @@ See also [awesome-reversing](https://github.com/tylerha97/awesome-reversing), [*
 * [Practical Reverse Engineering by Bruce Dang et al., 2014](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118787315.html)
 * [Reverse Engineering for Beginners by Dennis Yurichev](http://beginners.re/)
 * [The IDA Pro Book by Chris Eagle, 2011](https://nostarch.com/idapro2.htm)
+* [Reverse Engineering for Beginners ](https://www.begin.re/) 

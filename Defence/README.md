@@ -66,3 +66,7 @@ Zeek Analysis Tools (ZAT) - The ZAT Python package supports the processing and a
 * [Coreruleset](https://github.com/coreruleset/coreruleset) - 
 The OWASP ModSecurity Core Rule Set (CRS) is a set of generic attack detection rules for use with ModSecurity or compatible web application firewalls. The CRS aims to protect web applications from a wide range of attacks, including the OWASP Top Ten, with a minimum of false alerts.
 
+* [Ethical Hacking & System Defense](https://www.youtube.com/playlist?list=PLrentPLOUQnJxPIJy6XlLMgd3mLl3KRn2) - 
+Class lectures and demos from my college Ethical Hacking class.
+
+

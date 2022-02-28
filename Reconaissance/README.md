@@ -77,9 +77,15 @@ Free service that analyzes suspicious files and URLs and facilitates the quick d
 * [surfraw](https://github.com/kisom/surfraw) - 
 Fast UNIX command line interface to a variety of popular WWW search engines.
 
+* [snitch](https://github.com/Smaash/snitch) - 
+information gathering via dorks
+
+* [SSLEnum](https://github.com/melbadry9/SSLEnum/)-
+Extract SSL certificate data (Subject Name, Subject Alt Names, Organisation) 
+
 
 ## Resources 
 
-* [Also look at](https://github.com/enaqx/awesome-pentest#network-reconnaissance-tools)
+* [Also look at](https://github.com/enaqx/awesome-pentest#network-reconnaissance-tools) 
 
-* [Internal Pentest Playbook- Recon](https://github.com/sdcampbell/Internal-Pentest-Playbook/blob/master/3%20-%20Recon.md)
+* [Internal Pentest Playbook- Recon](https://github.com/sdcampbell/Internal-Pentest-Playbook/blob/master/3%20-%20Recon.md) 

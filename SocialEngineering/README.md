@@ -61,3 +61,10 @@ Standalone Machine-in-the-Middle (MitM) reverse proxy attack framework for setti
 ### Portal 
 
 * [The Social-Engineer portal](https://www.social-engineer.org/) - Everything you need to know as a social engineer is in this site. You will find podcasts, resources, framework, informations about next events, blog ecc...
+
+### Lock_Piking 
+
+* [97 Picking Serrated Pins By Sound](https://www.youtube.com/watch?v=x_dWcmezdeE&list=PLpIvUbO_777x5jZW9BM79Qhj7dEV8EvEe&index=5) -
+
+
+https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/users-default-permissionasures

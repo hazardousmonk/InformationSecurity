@@ -71,6 +71,8 @@ Email Lookup tool
 A Gravatar is a Globally Recognized Avatar. You upload an image and create your public profile just once, and then when you participate in any Gravatar-enabled site, your Gravatar image and public profile will automatically follow you there.
 
 
+
+
 ## Domain & IP OSINT:
 
 * [ViewDNS](https://viewdns.info/) -
@@ -123,6 +125,12 @@ R3con1z3r is a lightweight Web information gathering tool with an intuitive feat
 * [Whois Lookup](https://whois.domaintools.com/) -
 DomainTools takes indicators from your network, including domains and IPs, and connects them with nearly every active domain on the internet. These connections help security professionals profile attackers, guide online fraud investigations, and map cyber activity to attacker infrastructure. 
 
+* [Pagodo](https://www.antennasearch.com/) -
+Search for the locations of cell towers and antennas to determine cell reception.
+
+
+
+
 ## Resources as per Use case:
 
 
@@ -166,7 +174,7 @@ Twint utilizes Twitter's search operators to let you scrape Tweets from specific
 * [TweetDeck](https://tweetdeck.twitter.com/) - 
 Most powerful Twitter tool for real-time tracking, organizing and engagement.
 
-* [One million tweet map]( https://onemilliontweetmap.com/) - 
+* [One million tweet map](https://onemilliontweetmap.com/) - 
 The one million tweet map is an interesting social media tool that you can use to visualize tweets and aggregated Twitter data in a world map. By using The one million tweet map you can run searches specifying a search term or a hashtag and quickly find a heatmap. The One Million Tweet Map is the name that Maptimize gave to this great free social media tool and you can use it freely to find tweets in a map. 
 
 * [Tweet Archivist](https://www.tweetarchivist.com/c57fce2f/15287) - 
@@ -192,6 +200,9 @@ It comes with a set of default metrics already implemented, and the possibility 
 
 * [Twitter Intelligence](https://github.com/batuhaniskr/twitter-intelligence) - 
 A project written in Python for twitter tracking and analysis without using Twitter API.
+
+* [FisherMan](https://github.com/Godofcoffe/FisherMan) -
+CLI program that collects information from facebook user profiles via Selenium. 
 
 
 #### Facebook : 
@@ -243,6 +254,15 @@ OnionScan is a free and open source tool for investigating the Dark Web. For all
 * [Fresh Onions TOR Hidden Service Crawler](https://github.com/dirtyfilthy/freshonions-torscraper ) - 
 This is a copy of the source for the http://zlal32teyptf4tvi.onion hidden service, which implements a tor hidden service crawler / spider and web site.
 
+* [OSINT Tools for Diving Deep into the Dark Web](https://www.youtube.com/watch?v=ywUxkvCK96w) -
+
+* [Geospatial Intelligence Library](https://github.com/cartographia/geospatial-intelligence-library?s=09) - 
+Your geospatial intelligence tool belt for digital investigations 
+
+
+
+
+
 #### Tor
 
 * [TorBot](https://github.com/DedSecInside/TorBot) - 
@@ -262,6 +282,11 @@ Bitcoin Addres Lookup
 * [Bitcoin Abuse Database](https://www.bitcoinabuse.com/) - 
 Tracks bitcoin address used by ransomware, blackmailers, fraudsters etc
 
+* [Bitcoin <> Monero Atomic Swaps ](https://sethforprivacy.com/guides/bitcoin-monero-atomic-swaps/) -
+It's been a long time coming, but it's finally here. You can, *today*, swap Bitcoin  Monero directly peer-to-peer, over Tor, with no custodian or trusted 3rd-party, no KYC (Know Your Customer) info, nothing.
+
+
+
 ### Discord
 
 * [Discord Invite Check](https://github.com/HuskerDu/discord-invite-check) - 
@@ -276,7 +301,7 @@ But with some major improvements in terms of speed and efficiency
 
  
 ### OSINT Frameworks:
-* [ Maryam ]- (https://github.com/saeeddhqan/Maryam) -  
+* [Maryam](https://github.com/saeeddhqan/Maryam) -  
 OWASP Maryam is a modular/optional open source framework based on OSINT and data gathering. Maryam is written in Python programming language and it’s designed to provide a powerful environment to harvest data from open sources and search engines and collect data quickly and thoroughly.
 
 * [Recon-NG](https://github.com/lanmaster53/recon-ng) -  
