@@ -35,3 +35,13 @@ Advanced-Process-Injection-Workshop by CyberWarFare Labs
 
 * [Pentesting an IOT Based Biometric Attendance Device eSSL](https://pentestmag.com/pentesting-an-iot-based-biometric-attendance-device/) - 
 Pentesting an IOT Based Biometric Attendance Device During one of the Red Team engagements, I got a chance to pentest a Biometric attendance device which was often used by the client to mark the attendance and to restrict access to specific rooms.
+
+* [ Security conferences talks](https://github.com/PaulSec/awesome-sec-talks) - 
+A collected list of awesome security talks 
+
+* [GoVanguard InfoSec Encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia) -
+A list of information security related awesome lists and other resources.
+
+
+*[CVE-2021-44228 - Log4j - MINECRAFT VULNERABLE! (and SO MUCH MORE)](https://www.youtube.com/watch?v=7qoPDq41xhQ) - 
+MINECRAFT VULNERABLE! Log4j
