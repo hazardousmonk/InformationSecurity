@@ -28,3 +28,6 @@ Crunch is a wordlist generator where you can specify a standard character set or
 CeWL is a ruby app which spiders a given url to a specified depth, optionally following external links, and returns a list of words which can then be used for password crackers such as John the Ripper.
 
 
+### Credential Checking tools
+* [Trufflehog](https://github.com/trufflesecurity/trufflehog) -
+Find credentials everywhere
