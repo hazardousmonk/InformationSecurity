@@ -9,3 +9,12 @@ This repository contains the source code, descriptions and writeups of INS'hAck 
 
 * [Top tools and resources for running a CTF](https://www.csoonline.com/article/3341318/top-tools-and-resources-for-running-a-capture-the-flag-competition.html) -  
 Capture the flag competitions can help improve security skills and identify talent. Use these tools and frameworks to design and run your own CTF event.
+
+* [Reverse Shell Cheat Sheet](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md) -
+A list of useful payloads and bypass for Web Application Security and Pentest/CTF - swisskyrepo/PayloadsAllTheThings.
+
+* [Network Pivoting Techniques](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Network%20Pivoting%20Techniques.md) - 
+
+* [PwnSoof](https://github.com/punk-security/pwnspoof) -
+pwnSpoof (from Punk Security) generates realistic spoofed log files for common web servers with customisable attack scenarios. 
+Every log bundle is unique and completely customisable, making it perfect for generating CTF scenarios and for training serials.
